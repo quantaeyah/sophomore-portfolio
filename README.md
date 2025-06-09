@@ -2,7 +2,7 @@
 Welcome to my portfolio! I'm a passionate developer with a focus on creating impactful solutions.
 
 ## About Me
-I specialize in web development, with experience in HTML, CSS, JavaScript, and React.
+My name is Quantaeyah Berry I specialize in web development, with experience in HTML, CSS, JavaScript, and React.And make gmaes and imprve my grades.
 
 ## Projects
 - **Project One**: A web application that solves problem X.
